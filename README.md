@@ -2,10 +2,13 @@
 
 ## About me
 🎓 Studying System Analysis and Development
+
 💼 Working as a Database Analyst at CrediSIS.
+
 📱 Learning more about The Universe Mobile.
 
 Find Me ⤵️
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccasmelow/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luccasmelow/)
 
