@@ -18,7 +18,7 @@ Find Me ⤵️
 
 
 
-### Tecnologias que eu uso no meu dia
+### Technologies I use in my day
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
